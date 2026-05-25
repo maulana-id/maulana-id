@@ -1,8 +1,8 @@
 ## 10X Engineering
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana-id&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana-id)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MaulanaRQN&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maulana-id)](https://git.io/streak-stats)
 
 ---
 
